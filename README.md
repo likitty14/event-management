@@ -1,1 +1,1 @@
-# qr-code-registration
+# event management
